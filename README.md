@@ -4,7 +4,7 @@ Final-year B.Tech Computer Science and Engineering student at NIT Silchar, passi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Varshit sai Akkala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshitsai246@gmail.com) 
 
 # 💻 Tech Stack:
